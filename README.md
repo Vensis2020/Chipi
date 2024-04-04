@@ -1,6 +1,6 @@
 # README
 
-[Сообщество](https://t.me/blckbazars)
+[Сообщество](https://t.me/chapa_mining)
 
 [Сообщество жетона](https://t.me/chipicoinru)
 
@@ -32,7 +32,7 @@ TONAPI_TOKEN=
 
 # EN
 
-[Community](https://t.me/blckbazars)
+[Community](https://t.me/chapa_mining)
 
 [Jetton community](https://t.me/chipicoin)
 
